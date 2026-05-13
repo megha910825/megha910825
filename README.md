@@ -8,6 +8,7 @@ I'm passionate about Infrastructure as Code, Kubernetes, and building scalable p
 - Certified Kubernetes Administrator (CKA) - CNCF
 - HashiCorp Terraform Associate
 - Microsoft Azure Administrator Associate
+- Microsoft Azure DevOps Expert
 
 ### 💻 Tech Stack
 **Cloud:** Azure (Expert), AWS  
